@@ -1,3 +1,6 @@
 1. push working master
 2. create develope branch
 3. create branch with that name
+4.ci/cd platform 
+5. develope application
+
