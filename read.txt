@@ -1,6 +1,8 @@
 1. push working master
 2. create develope branch
 3. create branch with that name
-4.ci/cd platform 
-5. develope application
-
+4. ci/cd platform 
+5. develope application to test
+6. test have to be done 
+7. hotfix have to be done
+8. realsed for production
